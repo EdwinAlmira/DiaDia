@@ -1,0 +1,4 @@
+Options -Indexes
+ErrorDocument 404 /PROYECTO/frontend/views/error1.php
+ErrorDocument 403 /PROYECTO/frontend/views/error2.php
+

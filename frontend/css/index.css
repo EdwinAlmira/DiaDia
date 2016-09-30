@@ -1,0 +1,57 @@
+.marginado{
+	margin-left: 20px;
+}
+.espaciados{
+	margin-top: 10px;
+}
+.botoncito{
+	background-color: #A76328;
+	color: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+button > h2{
+	color: white
+}
+.holiwis{
+	font-size: 38px;
+}
+
+
+.fuente
+{
+    
+font-family: 'Ropa Sans', sans-serif;
+
+}
+
+.centrar
+{
+    
+margin-left: 100%;
+
+}
+
+.mayuscula{  
+text-transform: uppercase;  
+}  
+
+.fuente2
+{
+    
+font-family: 'Advent Pro', sans-serif;
+}
+
+
+.tamaño{
+
+	font-size: 20px;
+
+}
+.tamaña{
+
+	font-size: 15px;
+
+}
+.calo{
+	margin-top: 150px;
+}

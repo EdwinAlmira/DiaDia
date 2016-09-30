@@ -1,0 +1,13 @@
+<script src="../publico/js/vendor/jquery-2.2.3.js"></script>
+<script src="../publico/js/vendor/bootstrap.js"></script>
+<script src="../publico/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+<script src="../publico/js/main.js"></script>
+<script src="../publico/js/vendor/sweetalert.min.js"></script>
+<script src="../publico/js/vendor/menu-backend.js"></script>
+<script src="../publico/js/vendor/vista-previa.js"></script>
+<script src="../publico/js/vendor/pasar_datos2.js"></script>
+<script src="../publico/js/vendor/bootstrap-datepicker.js"></script>
+<script src="../publico/js/vendor/limpiar.js"></script>
+<script src="../publico/js/vendor/solonumeros.js"></script>
+<script src="../publico/js/vendor/sololetras.js"></script>
+<script src="../publico/js/vendor/SL.js"></script>

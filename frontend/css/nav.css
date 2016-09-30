@@ -1,0 +1,135 @@
+/*Nav bar propiedades*/
+.loguito{
+    width: 150px;
+    height: 30px;
+}
+.navbar-brand,
+.navbar-nav li a {
+    line-height: 100px;
+    height: 100px;
+    padding-top: 0;
+}
+
+.navbar-nav li > ul > li a{
+    line-height: 30px;
+    height: 30px;
+    padding-top: 0;
+}
+
+
+.navbar {
+   background-color: #fcfcfc;
+}
+.icon-bar
+{
+    color: #212121;
+    background-color: #212121;
+}
+.navbar-toggle{
+    background-color: #fcfcfc;
+    color: #212121;
+}
+/*Colores de la letras del navbar*/
+.navbar-fixed-top .navbar-nav > li > a {
+color: #3A2F11;
+}
+.navbar-fixed-top .navbar-nav > li > a:hover {
+color: #A76328;
+}
+.navbar-fixed-top .navbar-nav > li > a:focus {
+color: #3A2F11;
+}
+.navbar-fixed-top .navbar-nav .dropdown-menu> li > a {
+color: #A76328;
+}
+.navbar-fixed-top .navbar-nav .dropdown-menu> li > a:hover {
+color: #A76328;
+}
+.navbar-fixed-top .navbar-nav .dropdown-menu> li > a:focus {
+color: #A76328;
+}
+
+.marca{
+    width: 100px;
+    height: 100px;
+}
+
+@media screen and (max-width: 750px){
+    .marca{
+        width: 70px;
+    height: 70px;
+    }
+    .navbar-brand,
+    .navbar-nav li a {
+    line-height: 70px;
+    height: 70px;
+    padding-top: 0;
+    }
+    .navbar-toggle{
+        height: 50px;
+        widows: 50px;
+    }
+}
+
+.fade1
+{
+        opacity:2;
+}
+.fade1:hover
+{
+        opacity:0.85;
+}
+
+
+.color:hover
+{
+background:#53a7ea;
+}
+
+.grow:hover
+{
+-webkit-transform: scale(1.1);
+-ms-transform: scale(1.1);
+transform: scale(1.1);
+}
+
+
+.threed:hover
+{
+box-shadow:
+1px 1px #53a7ea,
+2px 2px #53a7ea,
+3px 3px #53a7ea;
+-webkit-transform: translateX(-3px);
+transform: translateX(-3px);
+}
+
+.fuentecolor
+{
+color: #A76328;
+
+
+}
+
+.letragrande
+{
+font-size: 45px;
+
+
+}
+
+.scrollup{
+    width:40px;
+    height:40px;
+    opacity:0.3;
+    position:fixed;
+    bottom:100px;
+    margin-right: -8%;
+    margin-bottom: -4%;
+    right:150px;
+    display:none;
+    text-indent:-9999px;
+    background: url('../img/logos/icon_top.png') no-repeat;
+}
+
+ 
